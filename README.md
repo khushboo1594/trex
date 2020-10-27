@@ -1,2 +1,2 @@
 # trex
-Chrom's game created using p5.play
+Chrome's game created using p5.play
